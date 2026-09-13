@@ -57,11 +57,18 @@ I'm a Systems Engineering student drawn to development in all its forms, both **
 
 ---
 
-### 📊 Estadísticas / Stats
+### 📌 Proyectos destacados / Featured projects
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [Sistemas Operativos](https://github.com/guille-011/Sistemas_Operativos-Javeriana_2025-30) | Talleres y laboratorios: procesos, hilos y sincronización | `C` `Linux` |
+| [Sistemas Distribuidos](https://github.com/guille-011/Sistemas_Distribuidos-Javeriana_2026-10) | Talleres, laboratorios y proyectos del curso | `Python` `Jupyter` |
+| [MatLab — Proyecto Final](https://github.com/guille-011/MatLab-Proyecto-Final) | Análisis de configuraciones para multiplicación de matrices | `MATLAB` |
+| [StudyFlow](https://github.com/guille-011/Study-Flow) | Plataforma web de organización académica para universitarios | `Java` `Spring Boot` `MySQL` |
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guille-011&show_icons=true&hide_border=true&theme=default&include_all_commits=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guille-011&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top languages">
+  <img src="https://img.shields.io/github/followers/guille-011?style=social" alt="Followers">
+  <img src="https://img.shields.io/github/stars/guille-011?affiliation=OWNER&style=social" alt="Stars">
 </p>
 
 ---
